@@ -1,2 +1,2 @@
 # Lab2
-This is the readme file for lab 2.
+In this lab you will design an HTML web page utilizing a provided skeleton structure.

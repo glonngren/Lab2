@@ -1,4 +1,13 @@
 # Lab2
-This is the readme file for lab 2.
-Create an HTML web page utilizing a basic skeleton structure.
-Follow the instructions provided for lab 2 provided in the instructor's repository.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Lab 2 README</title>
+</head>
+<body>
+  <h1>Lab 2 README</h1>
+  <p>In this lab you will design an HTML web page utilizing a provided skeleton structure.
+     Verify that your web page is properly formatted and verified via a validation service.</p>
+</body>
+</html>
